@@ -22,7 +22,10 @@ only python
 
 *change /absolute/path/to/your/lint.py with your tool path
 
+<img width="931" height="590" alt="image" src="https://github.com/user-attachments/assets/36da6548-9dcf-4dda-a721-f00d66fddea7" />
 
-<img width="1086" height="803" alt="Screenshot from 2026-01-21 14-49-32" src="https://github.com/user-attachments/assets/a175f2a7-1441-4485-bee8-5d6673a1e67f" />
-<img width="1086" height="803" alt="Screenshot from 2026-01-21 14-49-46" src="https://github.com/user-attachments/assets/d4fbf65c-2e13-4de2-ac76-d35a9a224f99" />
-<img width="1086" height="803" alt="Screenshot from 2026-01-21 14-49-55" src="https://github.com/user-attachments/assets/383b01f7-128d-4110-8f80-defa06850950" />
+
+<img width="931" height="590" alt="image" src="https://github.com/user-attachments/assets/b311d5d1-66a6-4997-8e45-ce844774c08d" />
+
+<img width="931" height="590" alt="image" src="https://github.com/user-attachments/assets/fc9d290d-6984-4f77-ba8e-903aa808e54b" />
+
