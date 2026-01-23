@@ -10,7 +10,11 @@ only python
 
 `cd lint`
 
-`pip install .`
+`pip install  . --break-system-packages` 
+
+or
+
+`pipx install  . ` 
 
 **Run :**
 
