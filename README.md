@@ -10,15 +10,11 @@ only python
 
 `cd lint`
 
-`sudo chmod +x lint.py`
+`pip install .`
 
 **Run :**
 
-`./lint.py`
-
-**Make lint work eny where**
-
-`sudo ln -s /absolute/path/to/your/lint.py /usr/local/bin/lint`
+`lint`
 
 *change /absolute/path/to/your/lint.py with your tool path
 
