@@ -1,0 +1,20 @@
+[build-system]
+requires = ["flit_core >=3.11,<4"]
+build-backend = "flit_core.buildapi"
+
+[project]
+name = "lint"
+authors = [{name = "mahmood", email = "hello@email.com"}]
+readme = "README.md"
+license = "MIT"
+license-files = ["LICENSE"]
+dynamic = ["version", "description"]
+
+dependencies = [
+    "rich"
+]
+[project.urls]
+Home = "https://welcome.come"
+
+[project.scripts]
+lint = "lint.main:main"
